@@ -2,13 +2,13 @@
   {
     "title": "Новый патч!",
     "text": "почетайте",
-    "image": "#",
+    "image": "test1.jpg",
     "link": "https://store.steampowered.com"
   },
   {
     "title": "анонс",
     "text": "Новая игра!",
-    "image": "#",
+    "image": "test2.gif",
     "link": "https://store.steampowered.com"
   }
 ]
