@@ -1,14 +1,26 @@
 [
   {
-    "title": "Новый патч!",
-    "text": "почетайте",
-    "image": "https://raw.githubusercontent.com/Veiimer/game-news/refs/heads/main/test1.jpg",
-    "link": "https://store.steampowered.com"
+    "title": {
+      "ru": "Новый патч!",
+      "en": "New Patch!"
+    },
+    "text": {
+      "ru": "Глянте",
+      "en": "Check out"
+    },
+    "image": "https://raw.githubusercontent.com/...",
+    "link": "https://veiimer.itch.io/keepalive"
   },
   {
-    "title": "анонс",
-    "text": "Новая игра!",
-    "image": "https://raw.githubusercontent.com/Veiimer/game-news/refs/heads/main/test4.jpg",
-    "link": "https://store.steampowered.com"
+    "title": {
+      "ru": "Новая игра",
+      "en": "New game"
+    },
+    "text": {
+      "ru": "Анонс новой игры",
+      "en": "Announcement of a new game"
+    },
+    "image": "https://raw.githubusercontent.com/...",
+    "link": "https://veiimer.itch.io/keepalive"
   }
 ]
