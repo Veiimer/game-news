@@ -4,4 +4,4 @@ A centralized, lightweight news management system for multiple games. It allows 
 
 ## Supported Games
 The following projects are using this system:
--[KEEPALIVE](https://veiimer.itch.io/keepalive)
+- [KEEPALIVE](https://veiimer.itch.io/keepalive)
