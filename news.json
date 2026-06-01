@@ -19,5 +19,12 @@
     "text": { "ru": "Играй сейчас!", "en": "Play now!" },
     "image": "https://gitflic.ru/project/veiimer/game-news/blob/raw?file=photo_2026-04-15_18-05-32.jpg",
     "link": ""
+  },
+  {
+    "game": "NOT_KEEPALIVE",
+    "title": { "ru": "Релиз!2", "en": "Release!2" },
+    "text": { "ru": "Играй сейчас!2", "en": "Play now!2" },
+    "image": "https://gitflic.ru/project/veiimer/game-news/blob/raw?file=photo_2026-04-15_18-05-32.jpg",
+    "link": ""
   }
 ]
