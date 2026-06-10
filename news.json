@@ -1,30 +1,9 @@
 [
   {
-    "game": "general",
-    "title": { "ru": "Вышел трейлер KEEPALIVE!", "en": "The trailer for KEEPALIVE!" },
-    "text": { "ru": "Посмотреть можете на моём канале", "en": "You can watch it on my channel" },
-    "image": "https://gitflic.ru/project/veiimer/game-news/blob/raw?file=photo_2026-04-15_18-05-32.jpg",
-    "link": ""
-  },
-  {
     "game": "KEEPALIVE",
-    "title": { "ru": "Патч от 01/06/2026", "en": "Patch from 06/01/2026" },
+    "title": { "ru": "Патч от 10/06/2026", "en": "Patch from 10/06/2026" },
     "text": { "ru": "Прочитать можно на итче", "en": "You can read it on Itch" },
     "image": "https://gitflic.ru/project/veiimer/game-news/blob/raw?file=photo_2026-04-15_18-05-32.jpg",
-    "link": "https://veiimer.itch.io/keepalive"
+    "link": "https://veiimer.itch.io/keepalive/devlog/1549585/keepalive-v11006026-major-launch-update-en"
   },
-  {
-    "game": "KEEPALIVE",
-    "title": { "ru": "Релиз!", "en": "Release!" },
-    "text": { "ru": "Играй сейчас!", "en": "Play now!" },
-    "image": "https://gitflic.ru/project/veiimer/game-news/blob/raw?file=photo_2026-04-15_18-05-32.jpg",
-    "link": ""
-  },
-  {
-    "game": "NOT_KEEPALIVE",
-    "title": { "ru": "Релиз!2", "en": "Release!2" },
-    "text": { "ru": "Играй сейчас!2", "en": "Play now!2" },
-    "image": "https://gitflic.ru/project/veiimer/game-news/blob/raw?file=photo_2026-04-15_18-05-32.jpg",
-    "link": ""
-  }
 ]
